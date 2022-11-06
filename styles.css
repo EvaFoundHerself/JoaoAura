@@ -4,8 +4,9 @@
 
 }
 
-body{
+#body{
 background-color: grey;
+font-family: 'Times New Roman', Times, serif;
 }
 #img-div{
     background-color: white;
